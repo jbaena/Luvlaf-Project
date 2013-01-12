@@ -1,0 +1,21 @@
+/**************************************************************************************\
+ *  Movable Classes                                                                   *
+ *  Copyright (c) 2007 John Baena                                                     *
+\**************************************************************************************/
+.showItem{
+  display: inherit;
+}
+.showAbsolute{
+  position: absolute;
+  left:0px;
+  top:0px;
+}
+.showOverlay{
+  position: fixed;
+  left:0px
+  top:0px;
+  z-index: 200;
+}
+.hideItem{
+  display: none;
+}
