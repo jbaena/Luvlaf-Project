@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>AppAlliances: <?php echo $title; ?></title>
+<title>Luflaf Project: <?php echo $title; ?></title>
 
 <script type="text/javascript" src="<?php echo $dir; ?>script/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="<?php echo $dir; ?>script/jquery_ui/js/jquery_ui.js"></script>
